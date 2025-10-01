@@ -1,7 +1,8 @@
 # Solarwinds
 Code vulnerability in the license verification library
 
-<h3>Note</h3><hr>hI do not condone piracy, and if you can afford to purchase a license for SolarWinds products, be sure to buy it!
+<h2>Note</h2>
+hI do not condone piracy, and if you can afford to purchase a license for SolarWinds products, be sure to buy it!
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Official_SolarWinds_Logo.svg" alt="MAS Logo"></p>
 
@@ -38,17 +39,7 @@ You can activate any product with my mod:
 <li>Observability Essentials Enterprise Scale Edition</li>
 </ul>
 
-If you need more detailed information, <a href="https://t.me/solarwinds_HCO"
-   target="_blank"
-   rel="noopener noreferrer"
-   style="display:inline-flex;align-items:center;gap:8px;text-decoration:none;color:inherit;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/250px-Telegram_logo.svg.png"
-       alt="Telegram"
-       width="24"
-       height="24"
-       style="display:block;">
-  <span>t.me/solarwinds_HCO</span>
-</a>
+<h2>All products in the trial period are susceptible to this vulnerability.</h2>
 
 <b>Vulnerability in the SolarWinds.Licensing.Gen4.Management namespace class</b>
 <code>
@@ -68,5 +59,25 @@ If you need more detailed information, <a href="https://t.me/solarwinds_HCO"
 				return dateTime.AddMinutes(-1.0);
 			}
 		}
+</code> 
 
-</code>    
+<H3>A couple of screenshots</H3>
+<hr>
+After modification the day counter is set to maximum:
+
+<p align="center"><img src="https://github.com/ShoutDown/Solarwinds/blob/main/scr-1.png"></p>
+
+<p align="center"><img src="https://github.com/ShoutDown/Solarwinds/blob/main/scr-2.png"></p>
+
+<H2>For more information, please contact our Telegram group.</H2>
+If you need more detailed information, <a href="https://t.me/solarwinds_HCO"
+   target="_blank"
+   rel="noopener noreferrer"
+   style="display:inline-flex;align-items:center;gap:8px;text-decoration:none;color:inherit;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/250px-Telegram_logo.svg.png"
+       alt="Telegram"
+       width="24"
+       height="24"
+       style="display:block;">
+  <span>t.me/solarwinds_HCO</span>
+</a>
