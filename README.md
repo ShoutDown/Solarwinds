@@ -69,6 +69,8 @@ After modification the day counter is set to maximum:
 
 <p align="center"><img src="https://github.com/ShoutDown/Solarwinds/blob/main/scr-2.png"></p>
 
+<b>And Network Topology Mapper also vulnerable</b>
+
 <p align="center"><img src="https://github.com/ShoutDown/Solarwinds/blob/main/NTM.png"></p>
 
 <H2>For more information, please contact our Telegram group.</H2>
