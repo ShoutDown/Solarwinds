@@ -2,7 +2,7 @@
 Code vulnerability in the license verification library
 
 <h2>Note</h2>
-hI do not condone piracy, and if you can afford to purchase a license for SolarWinds products, be sure to buy it!
+I do not condone piracy, and if you can afford to purchase a license for SolarWinds products, be sure to buy it!
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Official_SolarWinds_Logo.svg" alt="MAS Logo"></p>
 
