@@ -73,6 +73,9 @@ After modification the day counter is set to maximum:
 
 <p align="center"><img src="https://github.com/ShoutDown/Solarwinds/blob/main/NTM.png"></p>
 
+<b>And Engineer's Toolset</b>
+<p align="center"><img src="https://raw.githubusercontent.com/ShoutDown/Solarwinds/refs/heads/main/Toolset.png"></p>
+
 <H2>For more information, please contact our Telegram group.</H2>
 If you need more detailed information, <a href="https://t.me/solarwinds_HCO"
    target="_blank"
